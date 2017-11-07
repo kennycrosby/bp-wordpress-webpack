@@ -13,6 +13,8 @@
   },
   "dependencies": {
     "babel-jest": "^20.0.3",
+    "bootstrap": "4.0.0-beta",
+    "bootstrap-sass": "^3.3.7",
     "clean-webpack-plugin": "^0.1.16",
     "copy-webpack-plugin": "^4.0.1",
     "css-loader": "^0.28.4",

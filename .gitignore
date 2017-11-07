@@ -7,7 +7,7 @@
 /coverage
 
 # production
-/public
+/www/wp-content/themes/
 
 # misc
 .DS_Store
